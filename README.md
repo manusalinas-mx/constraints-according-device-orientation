@@ -60,3 +60,9 @@ Switch to Portrait, and now disable those additional constraints from step 4 in 
 
 <img width="211" alt="0cfHs" src="https://user-images.githubusercontent.com/110424672/203601817-d522d775-272f-4f3c-bb65-caf0f482aae3.png">
 
+**Logos Backup**
+
+
+![Logo-at-top_-name-at-bottom](https://github.com/user-attachments/assets/e2d54d73-ab96-4d00-a2d6-a47287cc8c5e)
+![Logo-at-left_-name-at-right](https://github.com/user-attachments/assets/cb35752c-e317-484a-84a6-1c5ab1a6a684)
+![Just-Logo](https://github.com/user-attachments/assets/e9b467c4-a619-46cf-a77d-3e8aae76a3a3)
